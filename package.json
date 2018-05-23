@@ -1,0 +1,14 @@
+{
+  "name": "node-file-upload",
+  "version": "1.0.0",
+  "description": "Pure nodejs file upload with zero dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@jacdebug",
+  "license": "ISC",
+  "dependencies": {}
+}
